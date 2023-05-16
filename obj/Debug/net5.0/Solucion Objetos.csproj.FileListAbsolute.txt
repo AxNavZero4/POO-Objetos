@@ -1,0 +1,16 @@
+C:\Users\Upqroo\Documents\Marco\Solucion Objetos\obj\Debug\net5.0\Solucion Objetos.csproj.AssemblyReference.cache
+C:\Users\Upqroo\Documents\Marco\Solucion Objetos\obj\Debug\net5.0\Solucion Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upqroo\Documents\Marco\Solucion Objetos\obj\Debug\net5.0\Solucion Objetos.AssemblyInfoInputs.cache
+C:\Users\Upqroo\Documents\Marco\Solucion Objetos\obj\Debug\net5.0\Solucion Objetos.AssemblyInfo.cs
+C:\Users\Upqroo\Documents\Marco\Solucion Objetos\obj\Debug\net5.0\Solucion Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Upqroo\Documents\Marco\Solucion Objetos\bin\Debug\net5.0\Solucion Objetos.exe
+C:\Users\Upqroo\Documents\Marco\Solucion Objetos\bin\Debug\net5.0\Solucion Objetos.deps.json
+C:\Users\Upqroo\Documents\Marco\Solucion Objetos\bin\Debug\net5.0\Solucion Objetos.runtimeconfig.json
+C:\Users\Upqroo\Documents\Marco\Solucion Objetos\bin\Debug\net5.0\Solucion Objetos.runtimeconfig.dev.json
+C:\Users\Upqroo\Documents\Marco\Solucion Objetos\bin\Debug\net5.0\Solucion Objetos.dll
+C:\Users\Upqroo\Documents\Marco\Solucion Objetos\bin\Debug\net5.0\Solucion Objetos.pdb
+C:\Users\Upqroo\Documents\Marco\Solucion Objetos\obj\Debug\net5.0\Solucion Objetos.dll
+C:\Users\Upqroo\Documents\Marco\Solucion Objetos\obj\Debug\net5.0\refint\Solucion Objetos.dll
+C:\Users\Upqroo\Documents\Marco\Solucion Objetos\obj\Debug\net5.0\Solucion Objetos.pdb
+C:\Users\Upqroo\Documents\Marco\Solucion Objetos\obj\Debug\net5.0\Solucion Objetos.genruntimeconfig.cache
+C:\Users\Upqroo\Documents\Marco\Solucion Objetos\obj\Debug\net5.0\ref\Solucion Objetos.dll
